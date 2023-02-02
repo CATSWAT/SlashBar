@@ -1,0 +1,4 @@
+﻿  SlashBar.cpp
+C:\Users\herhe\source\repos\SlashBar\SlashBar.cpp(7,25): warning C4566: символ, представленный универсальным именем символа "\u25A0", невозможно представить в текущей кодовой странице (1251)
+C:\Users\herhe\source\repos\SlashBar\SlashBar.cpp(15,27): warning C4566: символ, представленный универсальным именем символа "\u25A2", невозможно представить в текущей кодовой странице (1251)
+  SlashBar.vcxproj -> C:\Users\herhe\source\repos\SlashBar\x64\Debug\SlashBar.exe
